@@ -63,18 +63,6 @@ O ChatGPT auxiliou no planejamento da página, na organização do conteúdo em 
 
 A IA foi especialmente útil para estruturar os arquivos e acelerar a criação do layout e da interatividade. Entretanto, o conteúdo histórico e os dados precisam ser conferidos nas fontes originais, pois respostas de IA podem conter erros ou informações desatualizadas. A avaliação crítica, a revisão, os testes no navegador e a decisão sobre o que publicar cabem aos integrantes. **Antes da entrega, completem esta resposta com os testes e alterações que vocês realmente fizeram**; não afirmem ter realizado verificações que não aconteceram.
 
-## Como publicar no GitHub Pages
-
-1. Faça login em https://github.com/ e crie um repositório **público**, por exemplo, `raizes-vivas`.
-2. Clique em **Add file > Upload files** e envie `index.html`, `style.css`, `script.js`, `README.md` (não é necessário enviar pasta de imagens nesta versão).
-3. Faça o commit dos arquivos.
-4. Abra **Settings > Pages** no repositório.
-5. Em **Build and deployment**, selecione **Deploy from a branch**, escolha **main** e **/(root)** e salve.
-6. Quando o Pages terminar de publicar, abra `https://SEU-USUARIO.github.io/raizes-vivas/` (substitua pelo seu usuário e nome de repositório).
-7. Teste imagens, navegação e botões na URL publicada.
-
-**Atenção:** este ZIP **não foi publicado automaticamente**. O upload e a ativação do GitHub Pages precisam ser feitos na conta do aluno.
-
 ## Dados da equipe (preencher antes de entregar)
 
 - Integrante(s): __________________________
