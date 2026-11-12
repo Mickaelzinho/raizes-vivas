@@ -62,12 +62,3 @@ O ChatGPT auxiliou no planejamento da página, na organização do conteúdo em 
 **3. No que a IA foi realmente útil e onde ela falhou ou exigiu intervenção humana?**
 
 A IA foi especialmente útil para estruturar os arquivos e acelerar a criação do layout e da interatividade. Entretanto, o conteúdo histórico e os dados precisam ser conferidos nas fontes originais, pois respostas de IA podem conter erros ou informações desatualizadas. A avaliação crítica, a revisão, os testes no navegador e a decisão sobre o que publicar cabem aos integrantes. **Antes da entrega, completem esta resposta com os testes e alterações que vocês realmente fizeram**; não afirmem ter realizado verificações que não aconteceram.
-
-## Dados da equipe (preencher antes de entregar)
-
-- Integrante(s): __________________________
-- Turma: ________________________________
-- Repositório GitHub: _____________________
-- Link público GitHub Pages: ______________
-
-*O trabalho trata das comunidades quilombolas com respeito, sem generalizar experiências distintas e sem confundir ilustrações simbólicas com registros fotográficos.*
